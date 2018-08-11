@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "You complete me"
+
+cd "./lib"
+node "offer.js"
